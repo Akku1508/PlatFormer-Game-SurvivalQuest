@@ -10,6 +10,11 @@
 * Item collection system
 * Gradually increasing difficulty
 
+## 🎥 Demo Video
+
+Watch the gameplay demo here:
+[▶️ Demo Video](https://rb.gy/7rch2y)
+
 ## 🎨 Assets
 
 All game assets used in this project can be accessed here:
@@ -31,5 +36,4 @@ Download the playable application from the link below:
 
 * **Game Engine:** Unity
 * **Programming Language:** C#
-
 
