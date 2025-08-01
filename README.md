@@ -1,32 +1,35 @@
 # 🎮 SurvivalQuest
 
-**SurvivalQuest** is a 2D platformer survival game where the player navigates through challenging levels filled with obstacles and enemies. With only a limited number of lives, the player must collect items, avoid dangers, and survive as long as possible.
+**SurvivalQuest** is a 2D platformer survival game where the player navigates through challenging levels filled with obstacles and enemies. With a limited number of lives, the goal is to collect items, avoid dangers, and survive as long as possible.
 
 ## 🕹️ Features
 
-- Classic 2D platformer gameplay  
-- Limited lives for added challenge  
-- Obstacles and enemy encounters  
-- Item collection system  
-- Progressively increasing difficulty
+* Classic 2D platformer gameplay
+* Limited lives for an added challenge
+* Engaging obstacles and enemy encounters
+* Item collection system
+* Gradually increasing difficulty
 
-## 📦 Assets
+## 🎨 Assets
 
-All game assets used in this project can be accessed here:  
+All game assets used in this project can be accessed here:
 [👉 Click to open assets folder](https://drive.google.com/drive/folders/1UvOidLgWRqqWSWLE0s-Xc6ntTGC5Yo2x?usp=sharing)
+
+## 📥 Download the Game
+
+Download the playable application from the link below:
+[📦 SurvivalQuest Application](https://drive.google.com/drive/folders/1DRI3cXx9hfx2vnA07ggrjgUtxPKhtDPi?usp=sharing)
 
 ## 🚀 How to Play
 
-1. Use keyboard arrow keys or assigned controls to move the player.
-2. Avoid obstacles and enemies.
-3. Collect items to gain points or power-ups.
-4. Survive through all levels using the limited number of lives.
+1. Use the keyboard arrow keys (or assigned controls) to move the player.
+2. Avoid obstacles and enemy attacks.
+3. Collect items to earn points or gain power-ups.
+4. Survive through all levels using your limited lives.
 
 ## 🛠️ Tech Stack
 
-- **Game Engine:** *(e.g., Unity, Godot — replace with actual engine used)*  
-- **Programming Language:** *(e.g., C#, GDScript — replace as needed)*
+* **Game Engine:** Unity
+* **Programming Language:** C#
 
----
 
-Feel free to customize further depending on your game's engine or additional setup steps!
