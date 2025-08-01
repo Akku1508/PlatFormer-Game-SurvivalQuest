@@ -10,7 +10,7 @@
 * Item collection system
 * Gradually increasing difficulty
 
-## 🎥 Demo Video
+## 🎥 Demo 
 
 Watch the gameplay demo here:
 [▶️ Demo Video](https://rb.gy/7rch2y)
@@ -20,7 +20,7 @@ Watch the gameplay demo here:
 All game assets used in this project can be accessed here:
 [👉 Click to open assets folder](https://drive.google.com/drive/folders/1UvOidLgWRqqWSWLE0s-Xc6ntTGC5Yo2x?usp=sharing)
 
-## 📥 Download the Game
+## 📥 Application
 
 Download the playable application from the link below:
 [📦 SurvivalQuest Application](https://drive.google.com/drive/folders/1DRI3cXx9hfx2vnA07ggrjgUtxPKhtDPi?usp=sharing)
